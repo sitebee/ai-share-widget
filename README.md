@@ -170,8 +170,8 @@ This plugin does not collect, store, or transmit any personal data. When users c
 
 == Credits ==
 
-* Developed by Chris Lever,
-* Original concept by Metehan Yeşilyurt
+* Developed by Chris Lever - https://chrisleverseo.com/forum/t/ai-share-buttons-ask-llms-to-summarise-cite-and-explore-content.143/
+* Original concept by Metehan Yeşilyurt - https://metehan.ai/blog/citemet-ai-share-buttons-growth-hack-for-llms/
 * Icons and design inspired by platform brand guidelines
 * Built with WordPress coding standards
 * Accessibility testing with screen readers
