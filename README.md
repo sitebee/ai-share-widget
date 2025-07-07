@@ -1,15 +1,15 @@
-# ai-share-widget
+=== AI Share Widget ===
+
 Dynamic sharing buttons for AI platforms and social networks with shortcode support.
 
-=== AI Share Widget ===
-Contributors: yourname
-Tags: ai, sharing, social media, chatgpt, claude, perplexity, shortcode
-Requires at least: 5.0
-Tested up to: 6.4
-Requires PHP: 7.4
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+* Contributors: yourname
+* Tags: ai, sharing, social media, chatgpt, claude, perplexity, shortcode
+* Requires at least: 5.0
+* Tested up to: 6.4
+* Requires PHP: 7.4
+* Stable tag: 1.0.0
+* License: GPLv2 or later
+* License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Dynamic sharing buttons for AI platforms and social networks. Share your content with ChatGPT, Claude, Perplexity, and more with a simple shortcode.
 
