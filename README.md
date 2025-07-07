@@ -161,8 +161,8 @@ Initial release of AI Share Widget. Install to start sharing your content with A
 
 For support, feature requests, or bug reports:
 
-* **GitHub**: [https://github.com/sitebee/ai-share-widget]
-* **Email**: [hello@chrisleverseo.com]
+* **GitHub**: https://github.com/sitebee/ai-share-widget
+* **Email**: hello@chrisleverseo.com
 
 == Privacy Policy ==
 
