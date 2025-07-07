@@ -2,7 +2,7 @@
 
 Dynamic sharing buttons for AI platforms and social networks with shortcode support.
 
-* Contributors: yourname
+* Contributors: Chris Lever, Metehan Yeşilyurt
 * Tags: ai, sharing, social media, chatgpt, claude, perplexity, shortcode
 * Requires at least: 5.0
 * Tested up to: 6.4
