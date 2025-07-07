@@ -51,15 +51,6 @@ Dynamic sharing buttons for AI platforms and social networks. Share your content
 
 == Installation ==
 
-= Automatic Installation =
-
-1. Log in to your WordPress admin dashboard
-2. Navigate to **Plugins → Add New**
-3. Search for "AI Share Widget"
-4. Click **Install Now** and then **Activate**
-
-= Manual Installation =
-
 1. Download the plugin ZIP file
 2. Go to **Plugins → Add New → Upload Plugin**
 3. Choose the ZIP file and click **Install Now**
@@ -170,8 +161,6 @@ Initial release of AI Share Widget. Install to start sharing your content with A
 
 For support, feature requests, or bug reports:
 
-* **Documentation**: Visit the plugin settings page for detailed usage instructions
-* **Support Forum**: WordPress.org plugin support forum
 * **GitHub**: [https://github.com/sitebee/ai-share-widget]
 * **Email**: [hello@chrisleverseo.com]
 
@@ -181,7 +170,8 @@ This plugin does not collect, store, or transmit any personal data. When users c
 
 == Credits ==
 
-* Developed by [Your Name]
+* Developed by Chris Lever,
+* Original concept by Metehan Yeşilyurt
 * Icons and design inspired by platform brand guidelines
 * Built with WordPress coding standards
 * Accessibility testing with screen readers
