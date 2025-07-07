@@ -172,8 +172,8 @@ For support, feature requests, or bug reports:
 
 * **Documentation**: Visit the plugin settings page for detailed usage instructions
 * **Support Forum**: WordPress.org plugin support forum
-* **GitHub**: [Your GitHub repository URL]
-* **Email**: [Your support email]
+* **GitHub**: [https://github.com/sitebee/ai-share-widget]
+* **Email**: [hello@chrisleverseo.com]
 
 == Privacy Policy ==
 
