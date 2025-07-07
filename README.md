@@ -1,4 +1,4 @@
-=== AI Share Widget ===
+** AI Share WordPress Widget **
 
 Dynamic sharing buttons for AI platforms and social networks with shortcode support.
 
